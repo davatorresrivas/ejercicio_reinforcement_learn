@@ -1,0 +1,11 @@
+policy,train_seed,reward,pending
+Q-Learning,11,-282.45,0.12
+Q-Learning,22,-285.9,0.23
+Q-Learning,33,-280.875,0.325
+Q-Learning,44,-306.85,0.47
+Q-Learning,55,-298.6,0.27
+SARSA,11,-281.175,0.095
+SARSA,22,-277.75,0.06
+SARSA,33,-285.0,0.235
+SARSA,44,-282.975,0.32
+SARSA,55,-281.575,0.26
